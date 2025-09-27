@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+.generatedDiv{
+  border: .5px solid black;
+  box-sizing: border-box;
+}
+
+.js-container{
+  width:100vw;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
