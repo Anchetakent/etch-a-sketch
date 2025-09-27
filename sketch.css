@@ -2,13 +2,10 @@
   box-sizing: border-box;
   margin: 0;
 }
+
 .generatedDiv{
   border: .5px solid black;
   box-sizing: border-box;
-}
-
-.generatedDiv:hover{
-  background-color: lightblue;
 }
 
 .js-container{
@@ -18,4 +15,9 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+}
+.js-btn{
+  position: fixed;
+  left: 50%;
+  z-index: 10;
 }

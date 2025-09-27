@@ -1,4 +1,8 @@
 let container = document.querySelector('.js-container')
+let resetButton = document.querySelector('.js-btn')
+resetButton.addEventListener('click',function(){
+  alert("hello")
+})
 
 for(let i = 0; i < 256; i++){
   let j = document.createElement('div')
@@ -17,3 +21,4 @@ divs.forEach(function(square){
     square.style.backgroundColor = 'lightblue'
   })
 })
+
