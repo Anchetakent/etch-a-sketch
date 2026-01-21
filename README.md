@@ -1,6 +1,6 @@
 #  Etch-A-Sketch — Digital Drawing Pad
 
-Welcome to **Etch-A-Sketch** — a browser-based drawing project inspired by the classic toy where you sketch by moving a stylus across a grid. This version is built with **HTML, CSS, and JavaScript** and lets you draw directly in your web browser! :contentReference[oaicite:0]{index=0}
+A browser-based drawing project inspired by the classic toy where you sketch by moving a stylus across a grid. This version is built with **HTML, CSS, and JavaScript** and lets you draw directly in your web browser
 
 ---
 
@@ -28,3 +28,4 @@ This app recreates a digital Etch-A-Sketch experience where users draw by hoveri
 ├── sketch.css         # Styles and layout
 ├── sketch.js          # Core drawing & event logic
 └── README.md          # Project documentation
+
